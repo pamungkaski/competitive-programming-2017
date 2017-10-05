@@ -8,7 +8,7 @@
 
 using namespace std;
 int main(){
-    // ios_base::sync_with_stdio(false);
+    ios_base::sync_with_stdio(false);
     int T;
     vector <int> weapon;
     cin >> T;
